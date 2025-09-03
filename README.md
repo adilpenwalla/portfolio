@@ -21,8 +21,8 @@ This portfolio showcases my journey exploring **AR/VR, immersive installations, 
 - **Goal:** Create a simple AR demo for object placement in a real-world environment.  
 - **Tools:** Unity, Vuforia/AR Foundation, Blender  
 - **Highlights:** Interactive placement + screenshots overlay.  
-- ![Screenshot](Unity_AR_Prototype/screenshots/demo.png)  
-- [▶ Watch Demo Video](https://your-link.com) | [💻 View Code](Unity_AR_Prototype/)  
+- ![Screenshot]()  
+- [▶ Watch Demo Video]() | [💻 View Code]()  
 
 ---
 
@@ -30,8 +30,8 @@ This portfolio showcases my journey exploring **AR/VR, immersive installations, 
 - **Goal:** Build an immersive VR space for interactive exploration.  
 - **Tools:** Unreal Engine, Oculus/HTC Vive (if available).  
 - **Highlights:** Real-time lighting + interactive triggers.  
-- ![Screenshot](Unreal_VR_Environment/demo.png)  
-- [▶ Watch Demo Video](https://your-link.com)  
+- ![Screenshot]()  
+- [▶ Watch Demo Video]()  
 
 ---
 
@@ -39,8 +39,8 @@ This portfolio showcases my journey exploring **AR/VR, immersive installations, 
 - **Goal:** Create a browser-based interactive 3D experience.  
 - **Tools:** JavaScript, Three.js, Blender models.  
 - **Highlights:** Real-time interactivity + generative visuals.  
-- ![Screenshot](WebGL_Interactive/demo.png)  
-- [🌐 Try Live Demo](https://your-demo-link.com) | [💻 View Code](WebGL_Interactive/)  
+- ![Screenshot]()  
+- [🌐 Try Live Demo]() | [💻 View Code]()  
 
 ---
 
@@ -48,8 +48,8 @@ This portfolio showcases my journey exploring **AR/VR, immersive installations, 
 - **Goal:** Trigger lights & visuals using sensors.  
 - **Tools:** Arduino, Processing/TouchDesigner, LED/projector.  
 - **Highlights:** Motion-triggered visuals for exhibition-style installation.  
-- ![Wiring Diagram](Arduino_Installation/wiring.png)  
-- [▶ Watch Demo Video](https://your-link.com) | [💻 View Code](Arduino_Installation/)  
+- ![Wiring Diagram]()  
+- [▶ Watch Demo Video]() | [💻 View Code]()  
 
 ---
 
